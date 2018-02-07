@@ -1,0 +1,22 @@
+{
+  "name": "tp_bar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "@ebuoy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "celebrate": "^7.0.4",
+    "express": "^4.16.2",
+    "fs": "0.0.1-security",
+    "joi": "^13.1.2",
+    "passport": "^0.4.0",
+    "passport-http": "^0.3.0",
+    "path": "^0.12.7",
+    "sqlite3": "^3.1.13"
+  }
+}
