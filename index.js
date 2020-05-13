@@ -16,5 +16,6 @@ app.listen(8080, (err) => {
     }
     else {
         console.log('app listening on port 8080');
+        console.log('this is a test of ssh key');
     }
 });
